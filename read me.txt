@@ -1,0 +1,12 @@
+Assignment 1  program file is ManuDemo.py
+Technology Stack - Python
+a) Taking File path from User
+b) Validating the file path
+c) After successful validation sending file path as parameter to method
+
+Assignment 2  Folder name is MySQLProject
+Technology Stack - REST API, MySQL, Typescript
+a) Set command prompt to the 'MySQLProject' folder path
+b) install node modules by running 'npm install' command 
+c) start MySQL server 
+d) run project by 'npm start' command
